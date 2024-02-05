@@ -19,29 +19,6 @@ A simple command-line calculator program written in C.
 
    ```bash
    git clone https://github.com/Njoxpy/Calculator
-   ```
-
-# Calculator.c
-
-A simple command-line calculator program written in C.
-
-## Description
-
-`calculator.c` is a basic calculator that performs addition, subtraction, multiplication, and division operations on two numbers. The program takes user input, processes the operation, and displays the result.
-
-## Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Njoxpy/Calculator
 
    ```
 
