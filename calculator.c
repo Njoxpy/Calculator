@@ -52,7 +52,7 @@ int main()
 
     int choice;
     printf("Choose which operation you want to perform, enter the operation number\n \n");
-    printf("1. Addition \n 2. Subtraction \n 3. Multiplication \n4. Division \n");
+    printf("\t1. Addition \n \t2. Subtraction \n \t3. Multiplication \n \t4. Division \n");
     scanf("%d", &choice);
 
     switch (choice)

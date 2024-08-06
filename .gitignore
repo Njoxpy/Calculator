@@ -1,2 +1,5 @@
 .vscode
-S
+*.txt
+output
+*.exe
+output\calculator.exe
